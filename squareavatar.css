@@ -1,0 +1,6 @@
+.account__avatar,
+.account__header__avatar,
+.account__avatar-overlay-base,
+.account__avatar-overlay-overlay {
+  border-radius: unset !important;
+}

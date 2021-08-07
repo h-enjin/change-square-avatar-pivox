@@ -1,0 +1,20 @@
+{
+  "name": "Change Square Avatar Pivox",
+  "description": "Pivoxのアバターを丸から四角に変更する非公式拡張機能",
+  "author": "h_enjin",
+  "homepage_url": "https://twitter.com/h_enjin",
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "matches": ["https://pivox.net/*"],
+      "css": ["squareavatar.css"]
+    }
+  ],
+  "icons": {
+    "16": "images/change_square_avatar16.png",
+    "32": "images/change_square_avatar32.png",
+    "48": "images/change_square_avatar48.png",
+    "128": "images/change_square_avatar128.png"
+  },
+  "manifest_version": 2
+}
