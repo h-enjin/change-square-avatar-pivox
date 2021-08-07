@@ -2,7 +2,7 @@
   "name": "Change Square Avatar Pivox",
   "description": "Pivoxのアバターを丸から四角に変更する非公式拡張機能",
   "author": "h_enjin",
-  "homepage_url": "https://twitter.com/h_enjin",
+  "homepage_url": "https://enjinm7.com/",
   "version": "0.1",
   "content_scripts": [
     {
