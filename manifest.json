@@ -3,7 +3,7 @@
   "description": "Pivoxのアバターを丸から四角に変更する非公式拡張機能",
   "author": "h_enjin",
   "homepage_url": "https://enjinm7.com/",
-  "version": "0.1",
+  "version": "0.2",
   "content_scripts": [
     {
       "matches": ["https://pivox.net/*"],
@@ -16,5 +16,5 @@
     "48": "images/change_square_avatar48.png",
     "128": "images/change_square_avatar128.png"
   },
-  "manifest_version": 2
+  "manifest_version": 3
 }
